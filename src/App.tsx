@@ -72,7 +72,7 @@ useEffect(() => {
 
 return (
   <>
-  <h1>Supabase x React</h1>
+  <h1 className="text-5xl font-bold">Supabase x React</h1>
   
   <form onSubmit={CreateTask}>
     <input
